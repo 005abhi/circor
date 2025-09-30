@@ -1,1 +1,1 @@
-# circor
+# CIRCOR
